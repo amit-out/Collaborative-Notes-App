@@ -1,0 +1,3 @@
+101|OOPs in Java|Classes, Objects, Inheritance, Polymorphism|College|1|Amit|amitvmishra105@gmail.com
+102|RDBMS|Normalization|College|1|Amit|amitvmishra105@gmail.com
+103|Project Ideas|Java based projects|Projects|1|Amit|amitvmishra105@gmail.com

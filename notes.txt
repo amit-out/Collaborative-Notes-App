@@ -1,0 +1,7 @@
+101|Advanced OOPs in java|Dynamic Method Dispatch
+Covariant return types.|Placements|1|Amit|amitvmishra105@gmail.com
+102|RDBMS|Normalization
+Generalization|College|2|Rahul|rahul234@gmail.com
+103|Project Ideas|Collaborative Notes App
+Library management System|Projects|1|Amit|amitvmishra105@gmail.com
+105|Java Collections|Array list , hasmaps, GUI, SWING,|java|1|Amit|amitvmishra105@gmail.com
