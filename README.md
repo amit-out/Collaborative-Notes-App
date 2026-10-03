@@ -23,6 +23,18 @@ A Java-based desktop notes application built using Java Swing.
 - OOP
 - ArrayList
 
+## screenshots
+
+### Main dashboard
+![Main Dashboard](screenshots/main-screen.png)
+
+
+### All notes
+![All Notes] (screenshots/All-notes.png)
+
+### Notes editor 
+![Note editor] (screenshots/note-editor.png)
+
 ## How to Run
 
 Compile:
