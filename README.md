@@ -33,7 +33,7 @@ A Java-based desktop notes application built using Java Swing.
 ![All Notes](screenshots/All-notes.png)
 
 ### Notes editor 
-![Note editor](screenshots/note-editor.png)
+![Note editor](screenshots/notes-editor.png)
 
 ## How to Run
 
